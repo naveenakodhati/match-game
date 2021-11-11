@@ -1,0 +1,16 @@
+.tab-li-container {
+  margin: 10px;
+  cursor: pointer;
+  color: White;
+}
+.tab-button {
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: 600;
+  border: 0px;
+  color: white;
+}
+.tab-color {
+  color: #fec653;
+  border-bottom: #fec653 2px solid;
+}
